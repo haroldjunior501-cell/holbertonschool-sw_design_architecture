@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 class Bus:
     def mode(self):
         return "road"
